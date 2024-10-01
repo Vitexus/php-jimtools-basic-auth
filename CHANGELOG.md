@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-# [3.4.0](https://github.com/tuupola//slim-basic-auth/compare/3.3.1...3.x) - unreleased
+# [3.4.0](https://github.com/tuupola//slim-basic-auth/compare/3.3.1...3.4.0) - 2024-10-01
 ### Added
 - Allow installing with `psr/http-message:^2.0` ([#126](https://github.com/tuupola/slim-basic-auth/pull/126/files))
 - Error handler now receives $params ([#121](https://github.com/tuupola/slim-basic-auth/pull/121/files))
