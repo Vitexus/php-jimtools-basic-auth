@@ -8,7 +8,6 @@ This middleware implements [HTTP Basic Authentication](https://en.wikipedia.org/
 
 
 [![Latest Version](https://img.shields.io/packagist/v/jimtools/basic-auth.svg?style=flat-square)](https://packagist.org/packages/jimtools/basic-auth)
-[![Packagist](https://img.shields.io/packagist/dm/jimtools/basic-auth.svg)](https://packagist.org/packages/jimtools/basic-auth)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/jimtools/basic-auth/tests.yml?branch=3.x&style=flat-square)](https://github.com/jimtools/basic-auth/actions)
 [![Coverage](https://img.shields.io/codecov/c/github/jimtools/basic-auth/3.x.svg?style=flat-square)](https://codecov.io/gh/jimtools/basic-auth/branch/3.x)
