@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > This package is a maintained versions of a [tuupola/slim-basic-auth](https://github.com/tuupola/slim-basic-auth/tree/3.x),
-> version 1 is fork 3.x and will remained 100% backward conpaticial with the original libary.
+> version 1 is forked from 3.x and will remained 100% backward compatible with the original libary.
 
 This middleware implements [HTTP Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication). It was originally developed for Slim but can be used with all frameworks using PSR-7 or PSR-15 style middlewares. It has been tested  with [Slim Framework](http://www.slimframework.com/) and [Zend Expressive](https://zendframework.github.io/zend-expressive/).
 
