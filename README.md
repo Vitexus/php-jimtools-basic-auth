@@ -9,8 +9,8 @@ This middleware implements [HTTP Basic Authentication](https://en.wikipedia.org/
 
 [![Latest Version](https://img.shields.io/packagist/v/jimtools/basic-auth.svg?style=flat-square)](https://packagist.org/packages/jimtools/basic-auth)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/jimtools/basic-auth/tests.yml?branch=3.x&style=flat-square)](https://github.com/jimtools/basic-auth/actions)
-[![Coverage](https://img.shields.io/codecov/c/github/jimtools/basic-auth/3.x.svg?style=flat-square)](https://codecov.io/gh/jimtools/basic-auth/branch/3.x)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/jimtools/basic-auth/tests.yml?branch=main&style=flat-square)](https://github.com/jimtools/basic-auth/actions)
+[![Coverage](https://img.shields.io/codecov/c/github/jimtools/basic-auth/main.svg?style=flat-square)](https://codecov.io/gh/jimtools/basic-auth/branch/main)
 
 Heads up! You are reading documentation for [3.x branch](https://github.com/tuupola/slim-basic-auth/tree/3.x) which is PHP 7.1 and up only. If you are using older version of PHP see the [2.x branch](https://github.com/tuupola/slim-basic-auth/tree/2.x). These two branches are not backwards compatible, see [UPGRADING](https://github.com/tuupola/slim-basic-auth/blob/3.x/UPGRADING.md) for instructions how to upgrade.
 
