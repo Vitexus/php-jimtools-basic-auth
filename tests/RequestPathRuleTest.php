@@ -37,7 +37,7 @@ use Laminas\Diactoros\ServerRequestFactory;
 use Laminas\Diactoros\Uri;
 use PHPUnit\Framework\TestCase;
 
-class RequestPathTest extends TestCase
+class RequestPathRuleTest extends TestCase
 {
     public function testShouldAcceptArrayAndStringAsPath()
     {
