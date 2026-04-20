@@ -1,0 +1,5 @@
+php-jimtools-basic-auth (3.4.0-1) unstable; urgency=medium
+
+  * Initial Debian packaging.
+
+ -- Vítězslav Dvořák <cybervitexus@gmail.com>  Sun, 20 Apr 2026 14:39:00 +0000

@@ -1,0 +1,10 @@
+6aed93fe672a152151feb67dba375b83  usr/share/doc/php-jimtools-basic-auth/changelog.Debian.gz
+5743d0ca20938dec3d27a1fd945212b2  usr/share/doc/php-jimtools-basic-auth/changelog.gz
+515723d96ceb2eccf376231bc3cd8fcc  usr/share/doc/php-jimtools-basic-auth/copyright
+e167836a150e9e72cde33e79b6afd873  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication.php
+c74c9c65002a5746186db2e8a6d5fde0  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication/ArrayAuthenticator.php
+f51bea327351d2261b7e46fae7e69664  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication/AuthenticatorInterface.php
+b5f16a92a0a8d0151f08a221e719f964  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication/PdoAuthenticator.php
+26d4e6337c18fd0a93d209e019c22bfc  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication/RequestMethodRule.php
+2c7ee15e2f2f14588329c44d71945753  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication/RequestPathRule.php
+16736c0ff255fc13634e4f62edccaf6c  usr/share/php/Tuupola/Middleware/HttpBasicAuthentication/RuleInterface.php

@@ -1,0 +1,16 @@
+Source: php-jimtools-basic-auth
+Section: php
+Priority: optional
+Maintainer: Vítězslav Dvořák <cybervitexus@gmail.com>
+Build-Depends: debhelper-compat (= 13), dh-sequence-phpcomposer | debhelper (>= 13)
+Standards-Version: 4.6.2
+Homepage: https://github.com/JimTools/basic-auth
+Rules-Requires-Root: no
+
+Package: php-jimtools-basic-auth
+Architecture: all
+Depends: ${misc:Depends}, php-common, php-psr-http-message, php-psr-http-server-middleware
+Description: PSR-7 and PSR-15 HTTP Basic Authentication Middleware
+ Provides HTTP Basic Authentication middleware compatible with PSR-7
+ and PSR-15 standards. Supports array and PDO-based authenticators,
+ and flexible path/method routing rules.

@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+%:
+	dh $@
+
+override_dh_auto_clean:
+	# nothing to clean for a PHP library
+
+override_dh_auto_build:
+	# nothing to build for a PHP library
+
+override_dh_auto_test:
+	# skip tests during packaging
