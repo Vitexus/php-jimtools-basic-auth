@@ -1,1 +1,3 @@
 src/* usr/share/php/Tuupola/Middleware/
+php-jimtools-basic-auth.svg	usr/share/icons/hicolor/scalable/apps/
+io.github.jimtools.basic_auth.metainfo.xml	usr/share/metainfo/

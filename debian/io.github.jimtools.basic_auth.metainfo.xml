@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>io.github.jimtools.basic_auth</id>
+  <icon type="stock">php-jimtools-basic-auth</icon>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <name>JimTools Basic Auth</name>
+  <summary>PSR-7 and PSR-15 HTTP Basic Authentication Middleware</summary>
+  <description>
+    <p>
+      Provides HTTP Basic Authentication middleware compatible with PSR-7 and PSR-15 standards. Supports array and PDO-based authenticators, and flexible path/method routing rules.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/JimTools/basic-auth</url>
+  <url type="bugtracker">https://github.com/JimTools/basic-auth/issues</url>
+  <developer id="io.github.jimtools">
+    <name>JimTools</name>
+  </developer>
+  <content_rating type="oars-1.1"/>
+</component>
